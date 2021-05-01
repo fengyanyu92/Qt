@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>CSS/black.css</file>
+        <file>image/checkbox_checked.png</file>
+        <file>image/checkbox_checked_disable.png</file>
+        <file>image/checkbox_parcial.png</file>
+        <file>image/checkbox_parcial_disable.png</file>
+        <file>image/checkbox_unchecked.png</file>
+        <file>image/checkbox_unchecked_disable.png</file>
+        <file>image/radio_normal.png</file>
+        <file>image/radio_normal_disable.png</file>
+        <file>image/radio_selected.png</file>
+        <file>image/radio_selected_disable.png</file>
+        <file>image/add_bottom.png</file>
+        <file>image/add_bottom_blue.png</file>
+        <file>image/add_bottom_dev.png</file>
+        <file>image/add_left.png</file>
+        <file>image/add_left_blue.png</file>
+        <file>image/add_left_dev.png</file>
+        <file>image/add_right.png</file>
+        <file>image/add_right_blue.png</file>
+        <file>image/add_right_dev.png</file>
+        <file>image/add_top.png</file>
+        <file>image/add_top_blue.png</file>
+        <file>image/add_top_dev.png</file>
+        <file>image/Qt.png</file>
+        <file>image/qt-logo.ico</file>
+    </qresource>
+</RCC>
